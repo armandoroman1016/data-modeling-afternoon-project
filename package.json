@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/armandoroman1016/data-modeling-afternoon-project#readme",
   "dependencies": {
+    "dotenv": "^8.1.0",
     "express": "^4.17.1",
     "helmet": "^3.21.0",
     "knex": "^0.19.4",
